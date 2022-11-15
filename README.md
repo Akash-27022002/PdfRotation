@@ -1,7 +1,9 @@
 # PdfRotation
 This is python django project which have an on rest api 
-#Install the project and enter the directory which carry manage.py file
-*install required files such as django , djangorestframework , PyPDF2... *
+
+Install the project and enter the directory which carry manage.py file
+**install required files such as django , djangorestframework , PyPDF2... **
+
 Run command *python manage.py runserver*
 Then hit the localhost url /api
 #Then give the input as
